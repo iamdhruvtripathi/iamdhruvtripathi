@@ -21,7 +21,7 @@ I’m Dhruv Tripathi, an aspiring cybersecurity professional with a strong inter
 
 🔥 Hands-on:
 - Daily TryHackMe practice
-- Building labs & security projects
+- Completing labs & building security projects
 - Publishing writeups for selected rooms and challenges
 
 🏆 Certifications:
