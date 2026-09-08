@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Dhruv Tripathi, an aspiring cybersecurity professional with a strong interest in Security Operations, threat detection, security monitoring, and analyzing security events. I’m building practical cybersecurity skills through hands-on labs and projects while pursuing a career in Security Operations
+I’m Dhruv Tripathi, an aspiring cybersecurity professional with a strong interest in SOC Operations, threat detection & security monitoring. I’m building practical cybersecurity skills through hands-on labs and projects while pursuing a career in Security Operations
 
 💻 Projects:
 - [Active Directory Homelab](https://github.com/iamdhruvtripathi/Active-Directory-Homelab)
