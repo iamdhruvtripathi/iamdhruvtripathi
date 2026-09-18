@@ -1,6 +1,4 @@
-<p align="center">
-<img width="75%" height="75%" alt="image" src="https://github.com/user-attachments/assets/5d43d36a-5bf0-4d43-8858-9d35dcbb77fe" />
-</p>
+# 👋 Hi there
 
 I’m Dhruv Tripathi, an aspiring cybersecurity professional with a strong interest in SOC Operations, threat detection & security monitoring. I’m building practical cybersecurity skills through hands-on labs and projects while pursuing a career in Security Operations
 
