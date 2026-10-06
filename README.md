@@ -144,12 +144,6 @@ A dedicated testing space where I script small automation tools and custom secur
 > * Developing infrastructure and building security tooling
 > * Publishing operational writeups for solved challenges
 
-### 🎯 Path & Milestones
-
-> 🏆 **Certifications**
-> * CompTIA Security+
-> * Google Cybersecurity Professional Certificate
-
 > 🚀 **Target Goals**
 > * Build out enterprise grade cybersecurity home labs
 > * Successfully pass the Cisco CCNA examination
