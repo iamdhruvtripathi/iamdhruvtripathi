@@ -6,7 +6,7 @@
 
 <h3>✦ Find me beyond the code</h3>
 
-<p><em>Connect, collaborate, or just see what I'm building</em></p>
+<p><em>Explore my work, credentials, and cybersecurity journey</em></p>
 
 <p> <a href="https://www.credly.com/badges/78f893ec-d4cd-444b-a1fb-7fd978c4c2df"><img src="https://img.shields.io/badge/CompTIA-Security%2B-EA0000?style=for-the-badge" alt="CompTIA Security+"></a>&nbsp;&nbsp; <a href="https://www.coursera.org/account/accomplishments/specialization/5FPD0KRYUN7O"><img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google" alt="Google Cybersecurity Professional Certificate"></a> </p>
 
