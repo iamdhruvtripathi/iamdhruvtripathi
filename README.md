@@ -35,17 +35,13 @@ Passionate about cybersecurity with a strong interest in Security Operations, th
 </td>
 </tr>
 
-<!-- Row 2: Projects Content -->
+<!-- Row 2: Projects Text Content (Calculates height automatically based on longest text) -->
 <tr>
 <td width="50%" valign="top">
 
 🖥️ Active Directory Homelab
 
 A Windows enterprise style homelab built with Proxmox to practice managing users, computers, network services, and security monitoring, with a separate Kali environment for safely simulating attacks and analyzing what happens
-
-<br>
-
-<a href="https://github.com">→ View Project</a>
 
 </td>
 <td width="50%" valign="top">
@@ -54,14 +50,24 @@ A Windows enterprise style homelab built with Proxmox to practice managing users
 
 A security tool that connects common cyberattacks with ways to detect and defend against them It brings together attack information, detection rules, and security testing tools, with a web interface and Splunk integration for easier analysis
 
-<br>
+</td>
+</tr>
+
+<!-- Row 3: Aligned Project Links (Pinned cleanly underneath) -->
+<tr>
+<td valign="bottom">
+
+<a href="https://github.com">→ View Project</a>
+
+</td>
+<td valign="bottom">
 
 <a href="https://github.com">→ View Project</a>
 
 </td>
 </tr>
 
-<!-- Row 3: Combined Section Headers for Writeups and Profiles side-by-side -->
+<!-- Row 4: Combined Section Headers for Writeups and Profiles side-by-side -->
 <tr>
 <td width="50%">
 
@@ -75,7 +81,7 @@ A security tool that connects common cyberattacks with ways to detect and defend
 </td>
 </tr>
 
-<!-- Row 4: Writeups Content (Left) vs Profiles Content (Right) -->
+<!-- Row 5: Writeups Content (Left) vs Profiles Content (Right) -->
 <tr>
 <td width="50%" valign="top">
 
@@ -102,7 +108,7 @@ Technical blogs detailing deep dives into cyber threat intelligence and network 
 </td>
 </tr>
 
-<!-- Row 5: Column 1 Section Header for For Fun (Spanning only the left side) -->
+<!-- Row 6: Column 1 Section Header for For Fun (Spanning only the left side) -->
 <tr>
 <td width="50%">
 
@@ -112,7 +118,7 @@ Technical blogs detailing deep dives into cyber threat intelligence and network 
 <td></td>
 </tr>
 
-<!-- Row 6: For Fun Content on the Left side -->
+<!-- Row 7: For Fun Content on the Left side -->
 <tr>
 <td width="50%" valign="top">
 
