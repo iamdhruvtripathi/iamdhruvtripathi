@@ -105,7 +105,7 @@ My personal developer portfolio site showcasing my frontend designs and active s
 My public platform rankings and path certifications for defensive and offensive security labs
 
 * [Medium Profile](#)
-Cybersecurity write-ups from hands-on labs, published on Medium
+Cybersecurity write-ups from hands-on THM labs, published on Medium
 
 </td>
 </tr>
