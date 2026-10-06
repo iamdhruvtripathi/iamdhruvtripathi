@@ -132,22 +132,29 @@ A dedicated testing space where I script small automation tools and custom secur
 </tr>
 </table>
 
-### 📚 Learning & Strategy
+<div align="center"> <h3>📚 Learning & Strategy</h3> <table> <tr> <td width="33%" valign="top" align="center"> <h3>📖 Learning</h3>
 
-> **Currently Learning**
-> * Cybersecurity & networking fundamentals
-> * TryHackMe SOC Level 1 Path
-> * CCNA certification prep
+Cybersecurity & networking fundamentals<br>
+TryHackMe SOC Level 1<br>
+CCNA certification prep
 
-> 🔥 **Daily Hands-on**
-> * Active TryHackMe sandbox labs practice
-> * Developing infrastructure and building security tooling
-> * Publishing operational writeups for solved challenges
+</td> <td width="33%" valign="top" align="center"> <h3>🔥 Hands-on</h3>
 
-> 🚀 **Target Goals**
-> * Build out enterprise grade cybersecurity home labs
-> * Successfully pass the Cisco CCNA examination
-> * Transition into a dedicated SOC Analyst or Junior Security role
+Active TryHackMe labs<br>
+Building security tooling<br>
+Developing infrastructure<br>
+Publishing writeups
+
+</td> <td width="33%" valign="top" align="center"> <h3>🚀 Goals</h3>
+
+Build enterprise-grade homelabs<br>
+Pass the CCNA<br>
+Become a SOC Analyst<br>
+Land a junior security role
+
+<br>
+
+</td> </tr> </table> </div>
 
 
 <p align="center">
