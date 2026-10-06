@@ -25,9 +25,17 @@ Passionate about cybersecurity with a strong interest in Security Operations, th
 
 </div> <br>
 
+<table>
+<!-- Row 1: Section Header for Projects -->
+<tr>
+<td colspan="2">
+
 ### 💻 Projects
 
-<table>
+</td>
+</tr>
+
+<!-- Row 2: Projects Content -->
 <tr>
 <td width="50%" valign="top">
 
@@ -37,41 +45,85 @@ A Windows enterprise style homelab built with Proxmox to practice managing users
 
 <br>
 
-<a href="https://github.com/iamdhruvtripathi/Active-Directory-Homelab">→ View Project</a>
+<a href="https://github.com">→ View Project</a>
 
 </td>
-
 <td width="50%" valign="top">
 
 🔍 MITRE Sigma Lookup Tool
 
-A security tool that connects common cyberattacks with ways to detect and defend against them. It brings together attack information, detection rules, and security testing tools, with a web interface and Splunk integration for easier analysis
+A security tool that connects common cyberattacks with ways to detect and defend against them It brings together attack information, detection rules, and security testing tools, with a web interface and Splunk integration for easier analysis
 
 <br>
 
-<a href="https://github.com/iamdhruvtripathi/MITRE-Sigma-Lookup-Tool">→ View Project</a>
+<a href="https://github.com">→ View Project</a>
 
 </td>
 </tr>
-</table>
+
+<!-- Row 3: Combined Section Headers for Writeups and Profiles side-by-side -->
+<tr>
+<td width="50%">
 
 ### 📝 Writeups
 
-<table>
+</td>
+<td width="50%">
+
+### 🌐 Profiles:
+
+</td>
+</tr>
+
+<!-- Row 4: Writeups Content (Left) vs Profiles Content (Right) -->
 <tr>
 <td width="50%" valign="top">
 
 📓 Cybersecurity Writeups
 
-Labs, notes, walkthroughs, and lessons learned from exploring different areas of cybersecurity.
+Labs, notes, walkthroughs, and lessons learned from exploring different areas of cybersecurity
 
 <br>
 
-<a href="https://github.com/iamdhruvtripathi/Cybersecurity-Writeups">→ Explore Writeups</a>
+<a href="https://github.com">→ Explore Writeups</a>
+
+</td>
+<td width="50%" valign="top">
+
+* [Portfolio Website](#)
+My personal developer portfolio site showcasing my frontend designs and active security projects
+
+* [TryHackMe Profile](https://tryhackme.com)
+My public platform rankings and path certifications for defensive and offensive security labs
+
+* [Medium Profile](#)
+Technical blogs detailing deep dives into cyber threat intelligence and network analysis
 
 </td>
 </tr>
+
+<!-- Row 5: Column 1 Section Header for For Fun (Spanning only the left side) -->
+<tr>
+<td width="50%">
+
+### 🤠 For Fun
+
+</td>
+<td></td>
+</tr>
+
+<!-- Row 6: For Fun Content on the Left side -->
+<tr>
+<td width="50%" valign="top">
+
+* [Python Playground](#)
+A dedicated testing space where I script small automation tools and custom security utilities
+
+</td>
+<td></td>
+</tr>
 </table>
+
 
 
 🌐 Profiles:
