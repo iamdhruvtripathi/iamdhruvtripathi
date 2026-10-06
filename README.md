@@ -43,14 +43,14 @@ Passionate about cybersecurity with a strong interest in Security Operations, th
 
 🖥️ Active Directory Homelab
 
-A Windows enterprise style homelab built with Proxmox to practice managing users, computers, network services, and security monitoring, with a separate Kali environment for safely simulating attacks and analyzing what happens
+A Windows enterprise-style homelab built with Proxmox to practice managing users, computers, Active Directory, DNS, DHCP, Group Policy, certificate services, and security monitoring, with a separate Kali Linux environment for safely simulating attacks, analyzing Windows event logs, and investigating activity through Sysmon and Splunk
 
 </td>
 <td width="50%" valign="top">
 
 🔍 MITRE Sigma Lookup Tool
 
-A security tool that connects common cyberattacks with ways to detect and defend against them It brings together attack information, detection rules, and security testing tools, with a web interface and Splunk integration for easier analysis
+A security tool that connects common cyberattacks with ways to detect and defend against them. It brings together MITRE ATT&CK techniques, mitigations, Sigma detection rules, and Atomic Red Team tests, with a Django web interface, CLI support, and Splunk SIEM integration for easier analysis and detection
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ A security tool that connects common cyberattacks with ways to detect and defend
 
 📓 Cybersecurity Writeups
 
-Labs, notes, walkthroughs, and lessons learned from exploring different areas of cybersecurity
+A collection of public cybersecurity write ups, notes, and lessons learned from TryHackMe labs, CTF challenges, and hands on security exercises. Each write-up is structured to document the process, findings, and key takeaways
 
 <br>
 
@@ -105,7 +105,7 @@ My personal developer portfolio site showcasing my frontend designs and active s
 My public platform rankings and path certifications for defensive and offensive security labs
 
 * [Medium Profile](#)
-Technical blogs detailing deep dives into cyber threat intelligence and network analysis
+Cybersecurity write-ups from hands-on labs, published on Medium
 
 </td>
 </tr>
