@@ -148,10 +148,6 @@ A dedicated testing space where I script small automation tools and custom secur
 - Earn CCNA
 - Land a SOC Analyst / Junior Security role in the future
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvtripathi1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv.tr03@gmail.com)
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0369A1,75:0284C7,100:38BDF8&height=120&section=footer"
