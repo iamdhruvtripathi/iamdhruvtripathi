@@ -1,4 +1,8 @@
-# 👋 Hi there
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0369A1,75:0284C7,100:38BDF8&height=220&section=header&text=Dhruv%20Tripathi&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CS%20Major%20%40%20UT%20Dallas&descSize=22&descAlignY=58&descColor=E0F2FE&animation=fadeIn" width="100%" />
+</p>
+
+
 
 I’m Dhruv Tripathi, an aspiring cybersecurity professional with a strong interest in SOC Operations, threat detection & security monitoring. I’m building practical cybersecurity skills through hands-on labs and projects while pursuing a career in Security Operations
 
