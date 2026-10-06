@@ -130,16 +130,6 @@ A dedicated testing space where I script small automation tools and custom secur
 </tr>
 </table>
 
-
-
-🌐 Profiles:
-- [Portfolio Website](https://iamdhruvtripathi.github.io/)
-- [TryHackMe Profile](https://tryhackme.com/p/dhruv.tr03)
-- [Medium Profile](https://medium.com/@dhruv.tr03)
-
- 🤠 For Fun
-   - [Python Playground](https://github.com/iamdhruvtripathi/Python-playground)
-
 📚 Currently Learning:
 - Cybersecurity & networking fundamentals
 - TryHackMe (SOC L1 Path)
