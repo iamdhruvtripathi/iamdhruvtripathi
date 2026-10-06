@@ -8,6 +8,8 @@
 
 <p><em>Connect, collaborate, or just see what I'm building</em></p>
 
+<p> <a href="https://www.credly.com/badges/78f893ec-d4cd-444b-a1fb-7fd978c4c2df"><img src="https://img.shields.io/badge/CompTIA-Security%2B-EA0000?style=for-the-badge" alt="CompTIA Security+"></a>&nbsp;&nbsp; <a href="https://www.coursera.org/account/accomplishments/specialization/5FPD0KRYUN7O"><img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google" alt="Google Cybersecurity Professional Certificate"></a> </p>
+
 <p>
 <a href="https://www.linkedin.com/in/dhruvtripathi1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:dhruv.tr03@gmail.com"><img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
@@ -130,23 +132,29 @@ A dedicated testing space where I script small automation tools and custom secur
 </tr>
 </table>
 
-📚 Currently Learning:
-- Cybersecurity & networking fundamentals
-- TryHackMe (SOC L1 Path)
-- CCNA prep
+### 📚 Learning & Strategy
 
-🔥 Hands-on:
-- Daily TryHackMe practice
-- Completing labs & building security projects
-- Publishing writeups for selected rooms and challenges
+> **Currently Learning**
+> * Cybersecurity & networking fundamentals
+> * TryHackMe SOC Level 1 Path
+> * CCNA certification prep
 
-🏆 Certifications:
-- CompTIA Security+, Google Cybersecurity Professional Certificate
+> 🔥 **Daily Hands-on**
+> * Active TryHackMe sandbox labs practice
+> * Developing infrastructure and building security tooling
+> * Publishing operational writeups for solved challenges
 
-🎯 Goals:
-- Build cybersecurity home labs & projects
-- Earn CCNA
-- Land a SOC Analyst / Junior Security role in the future
+### 🎯 Path & Milestones
+
+> 🏆 **Certifications**
+> * CompTIA Security+
+> * Google Cybersecurity Professional Certificate
+
+> 🚀 **Target Goals**
+> * Build out enterprise grade cybersecurity home labs
+> * Successfully pass the Cisco CCNA examination
+> * Transition into a dedicated SOC Analyst or Junior Security role
+
 
 <p align="center">
   <img
