@@ -98,13 +98,13 @@ A collection of public cybersecurity write ups, notes, and lessons learned from 
 </td>
 <td width="50%" valign="top">
 
-* [Portfolio Website](#)
+* [Portfolio Website](https://iamdhruvtripathi.github.io/)
 My personal developer portfolio site showcasing my frontend designs and active security projects
 
-* [TryHackMe Profile](https://tryhackme.com)
+* [TryHackMe Profile](https://tryhackme.com/p/dhruv.tr03)
 My public platform rankings and path certifications for defensive and offensive security labs
 
-* [Medium Profile](#)
+* [Medium Profile](https://medium.com/@dhruv.tr03)
 Cybersecurity write-ups from hands-on THM labs, published on Medium
 
 </td>
