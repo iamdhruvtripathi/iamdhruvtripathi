@@ -114,19 +114,6 @@ Cybersecurity write-ups from hands-on THM labs, published on Medium
 <tr>
 <td width="50%">
 
-### 🤠 For Fun
-
-</td>
-<td></td>
-</tr>
-
-<!-- Row 7: For Fun Content on the Left side -->
-<tr>
-<td width="50%" valign="top">
-
-* [Python Playground](#)
-A dedicated testing space where I script small automation tools and custom security utilities
-
 </td>
 <td></td>
 </tr>
