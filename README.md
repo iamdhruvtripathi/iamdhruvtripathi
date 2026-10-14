@@ -59,12 +59,12 @@ A security tool that connects common cyberattacks with ways to detect and defend
 <tr>
 <td valign="bottom">
 
-<a href="https://github.com">→ View Project</a>
+<a href="https://github.com/iamdhruvtripathi/Active-Directory-Homelab">→ View Project</a>
 
 </td>
 <td valign="bottom">
 
-<a href="https://github.com">→ View Project</a>
+<a href="https://github.com/iamdhruvtripathi/MITRE-Sigma-Lookup-Tool">→ View Project</a>
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ A collection of public cybersecurity write ups, notes, and lessons learned from 
 
 <br>
 
-<a href="https://github.com">→ Explore Writeups</a>
+<a href="https://github.com/iamdhruvtripathi/Cybersecurity-Writeups">→ Explore Writeups</a>
 
 </td>
 <td width="50%" valign="top">
