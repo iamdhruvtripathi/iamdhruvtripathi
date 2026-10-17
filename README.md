@@ -119,9 +119,15 @@ Cybersecurity write-ups from hands-on THM labs, published on Medium
 </tr>
 </table>
 
-<h3>💼 Professional Experience</h3>
-
 <table>
+<tr>
+<td colspan="2">
+
+### 💼 Professional Experience
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
