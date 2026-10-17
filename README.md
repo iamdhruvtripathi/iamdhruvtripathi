@@ -119,6 +119,33 @@ Cybersecurity write-ups from hands-on THM labs, published on Medium
 </tr>
 </table>
 
+<h3>💼 Experience</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>RPA Intern → Apprentice</b> · OTC Industrial Technologies<br>
+<sub>May 2026 – Present</sub>
+
+- Built Python and Automation Anywhere bots that cut 100+ hours of manual processing to 30 minutes
+- Investigated bot failures by analyzing system logs to find root causes and restore workflows
+- Tracked recurring failure patterns and documented fixes, improving reliability and reducing downtime
+
+</td>
+<td width="50%" valign="top">
+
+<b>NSF REU AI Research Intern</b> · Missouri S&T<br>
+<sub>May 2025 – July 2025</sub>
+
+- Built a Python/PyTorch pipeline to process and evaluate EEG signal data
+- Benchmarked ML models against baselines and wrote technical reports on the findings
+
+</td>
+</tr>
+</table>
+
+
 <div align="center"> <h3>📚 Learning & Strategy</h3> <table> <tr> <td width="33%" valign="top" align="center"> <h3>📖 Learning</h3>
 
 Cybersecurity & networking fundamentals<br>
