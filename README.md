@@ -119,7 +119,7 @@ Cybersecurity write-ups from hands-on THM labs, published on Medium
 </tr>
 </table>
 
-<h3>💼 Experience</h3>
+<h3>💼 Professional Experience</h3>
 
 <table>
 <tr>
