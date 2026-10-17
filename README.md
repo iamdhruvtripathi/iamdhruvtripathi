@@ -128,13 +128,12 @@ CCNA certification prep
 </td> <td width="33%" valign="top" align="center"> <h3>🔥 Hands-on</h3>
 
 Active TryHackMe labs<br>
-Building security tooling<br>
-Developing infrastructure<br>
+Building cybersecurity projects<br>
 Publishing writeups
 
 </td> <td width="33%" valign="top" align="center"> <h3>🚀 Goals</h3>
 
-Build enterprise-grade homelabs<br>
+Build more security projects<br>
 Pass the CCNA<br>
 Become a SOC Analyst<br>
 Land a junior security role
